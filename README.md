@@ -15,11 +15,14 @@ Permitir comunicação bidirecional (comando via MyMQTT para o ESP32).
 Armazenar e visualizar dados históricos via broker MQTT ou back-end compatível.
 
 ## Componentes Utilizados
-Componente	Função	Pino no ESP32
-ESP32 
+
+Jumpers
+
+ESP32
+
 Sensor DHT11	Leitura de temperatura e umidade
+
 Sensor LDR Leitura de luminosidade
-LED Indicação visual 
 
 
 ## Bibliotecas Necessárias
