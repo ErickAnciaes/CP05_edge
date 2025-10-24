@@ -91,13 +91,13 @@ Dispositivo Android com app MyMQTT instalado
 
 ## Autores
 
-Erick Anciães
+Erick Anciães RM 561484
 
-Patrick Canuto
+Patrick Canuto RM 563776
 
 João Pedro Mendes
 
-João Paulo Fernandes
+João Paulo Fernandes RM 563430
 
 
 
