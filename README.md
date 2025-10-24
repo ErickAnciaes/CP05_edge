@@ -85,8 +85,11 @@ Dispositivo Android com app MyMQTT instalado
 ## Autores
 
 Erick Anciães
+
 Patrick Canuto
+
 João Pedro Mendes
+
 João Paulo Fernandes
 
 
