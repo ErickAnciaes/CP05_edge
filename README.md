@@ -82,6 +82,10 @@ Acesso à internet (para NTP e broker MQTT)
 
 Dispositivo Android com app MyMQTT instalado
 
+## Imagem da Solução
+<img width="697" height="614" alt="image" src="https://github.com/user-attachments/assets/c8401a6b-2ba1-4899-ab32-8c0ae5ed0de0" />
+
+
 ## Autores
 
 Erick Anciães
