@@ -66,15 +66,15 @@ O ESP32 executa o comando e responde no tópico status.
 
 Envio dos dados para o FIWARE Orion Context Broker via NGSIv2 (HTTP).
 
-Armazenamento histórico em InfluxDB ou MongoDB.
+Armazenamento histórico em MongoDB.
 
-Dashboard com Grafana ou Node-RED Dashboard.
+Dashboard com Node-RED Dashboard.
 
 Adição de sensores extras (chuva, gás, movimento, etc).
 
 ## Requisitos de Ambiente
 
-Arduino IDE 1.8+ ou 2.x
+Arduino IDE 
 
 Core do ESP32 instalado 
 
